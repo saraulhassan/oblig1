@@ -1,1 +1,1 @@
-<a href="https://saraulhassan.github.io/oblig-1-riktig/homepage.html"> Oblig 1 </a>
+<a href="https://saraulhassan.github.io/oblig1/homepage.html"> Oblig 1 </a>
